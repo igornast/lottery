@@ -1,9 +1,9 @@
 {
-  "name": "igor/lotto",
+  "name": "igor/lottery",
   "authors": [
     {
-      "name": "igor",
-      "email": "nastarowicz@oskarwegner.pl"
+      "name": "Igor",
+      "email": "nastarowicz@hotmail.com"
     }
   ],
   "require": {
